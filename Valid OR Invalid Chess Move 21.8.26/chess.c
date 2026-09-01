@@ -1,4 +1,4 @@
-// **Used AI for the understanding of the code.**
+// **Used AI for the understanding of the topic.**
 
 #include <stdio.h>
 #include <stdlib.h>
